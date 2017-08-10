@@ -1,0 +1,39 @@
+#title{
+
+   color:white;
+   background-color: coral;
+}
+
+#Signup
+{
+	color: green;
+}
+
+ol{
+	color: coral;
+}
+.nape{
+	color: coral;
+	}
+
+	/*video 3.2*/
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.header{
+	width: 100%;
+	background-color: red;
+	background: url('kobita.jpg');
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	/*background-position: 25px 20px;*/
+	background-position: right;
+
+}
+.header h1{
+	margin: 0;
+}
